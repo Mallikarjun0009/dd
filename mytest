@@ -1,0 +1,145 @@
+Data is not triggering in Alert index in Seedworks, please follow the below screenshot for reference.
+
+we will look into the issue and we will update you.
+
+Thanks for the update. We're movHi Sai kiran,
+
+As discussion had with you, we have raised new ticket for this " _grokparsefailure " issue in fbfb8bd2-linux-syslog* index.
+Older reference ticket no
+Please check the below screenshot for your reference.ing the ticket to closed state.
+
+
+Data is triggering fine now. Please find below screenshot as reference.
+
+Requesting you to check and resolve the issue as earliest as possible.
+
+My session was disconnected now while trying to login it is throwing below error.
+
+We have checked in the log collector but the log collector password has expired and same has been informed to client. Please find the below screenshot for reference.
+
+Meanwhile, could you please check if there are any memory related issues or any other issues ..etc.,
+
+please contact with system administrater and reset the blusapphire user password
+
+Data is triggering fine now. please find the screen below for reference.
+
+Please arrange a working session for this and if required we shall updated the Responder and its services.
+Please let us know once you have approval from management for the working session.
+
+Data is triggering fine without delay in winevent but we can see delay timestamp in alert index.
+Please look into this.
+
+
+we already provided the necessary information.
+As we haven't received any response  as a standard process we are closing the ticket.
+
+ticket closing: Thanks for the update. We are closing the ticket.
+The requester has raised a new ticket, mentioned to close this ticket. Hence closing this ticket.
+
+We have informed to the concerned team regarding this request.
+We will update you once we get any update from them.
+
+Hi Team,
+Actual issue : The CPU cores in the Gateway collector reached 100%, Due to that data is stopped triggering.
+Resolution : Restarted the windows service after that data started triggering.
+Please find below attached screenshot for reference which provides the details of CPU cores reaching 100%.
+Note : Need an explanation which no ticket has been raised for such a long time.
+
+A large number of IPS need to push from the back end. so we will check with Vinod sir and let you know.
+
+All the services are working fine.
+As I observe the data is triggering fine now.
+
+we shall discuss this with the technical team and update you
+
+All the services are working fine.
+As I observe the data is triggering intermittently .so please wait for some time. it log will trigger
+
+data is triggering fine now. below is the screenshot for reference
+
+Data is triggering fine in Alert index in Seedworks client, please follow the screenshot for reference.
+
+1) Paf is not a critical issue(priority), why you raised it as a critical issue?
+2) Paf data is less triggered in holidays.
+3) we have checked all the services, all services are running fine.
+4) Please wait for couple of hours .
+
+Logs are not coming from client end.m
+The last log triggers on 2022-03-16.
+In Gateway collector mimecast service is running state.
+
+Thank you for the update. We are closing this ticket as the issue has been resolved.
+
+Data is triggering fine in mfa index.
+Please check and confirm from your end.
+So that we can close the ticket
+Hi Team,
+Thanks for the update. We are moving this ticket to closed state.
+Sco teasade that . Hence we are closing the ticket. 
+
+i have inmfom to bhanu sir and he said that he drop  
+
+Hi Team,
+Data is triggering fine. 
+Please check and confirm from your end. So that we can close the ticket.
+Regards
+1) Paf is not a critical issue(priority), why you raised it as a critical issue?
+2) Paf data is less triggered in holidays.
+3) we have checked all the services, all services are running fine.
+4) Please wait for couple of hours.
+
+We I don't have any idea on the filebeat service.
+
+Thank you for the update. We are moving this ticket to the closed state, and we will follow up on ticket #569 as well. Therefore, we are closing ticket #479.
+
+We already have a ticket on this issue #479. Please do follow up in any of the ticket and close the other. 
+We have been observing since months that data will trigger with delay in hexcel_uk client.
+We also observed that delay is only 18-20 minutes.
+please let us know if the delay is more. As of know we have checked everything related to winevents and didn't found anything. everything is working fine.
+
+We have informed Somesh sir. once we get an update we will let you know 
+
+As per standard procedure, we are closing the ticket since we did not receive a response from you.
+Data is triggering fine now 
+
+Actual issue:DeadLetterQueue reached max queue size 
+disk space= 7%
+memory=6.33G/7.63G
+swap=988m/7.87G
+Resolution: removed old logs and restarted the service.
+
+As we comfrom date is triggering fine. We are moving this ticket to closed state.
+
+As informed earlier in below notes on 3rd Oct'22, the bad length issue is from client end only and it is not related to backend. This may be network issue hence please check with network team or with client to resolve this.
+As requested, Parser has been already updated related to Lwaf .
+
+As I seen the issue has been resolved from our end. please check it out once again to close the ticket.
+
+Thanks for the update. We are closing this ticket because the issue has been resolved.
+
+All services are working fine. Data is triggering delay 
+disk space:95%
+memory:6.5G/15.5G
+swap:4:00G/8.00G
+Please wait for some time it will trigger normally.
+
+Hi Team
+Data is triggering fine now. please find the screenshot for reference
+issue: There is a memory error in the service.
+Resolution: Restarted the service. and the data got triggered
+
+Hi  team
+Checked all services. all services are working fine
+Checked the system resource in GC
+Disk space:71%
+Ram:13.9G/15.5G
+Swap:2.96G/7.68G
+
+Checked the system resource in lc
+Disk space:18%
+Ram:6.74G/7.63G
+Swap:625M/7.87G
+Checked all services. all services are working fine
+We have been observing since months that data will trigger with delay in hexcel_us client.
+We also observed that delay is only 20-30 minutes Alert index.
+please let us know if the delay is more. As of know we have checked everything related to winevents and Alerts didn't found anything error. everything is working fine.
